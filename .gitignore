@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Build
+build/
+dist/
+*.spec
+*.manifest
+
+# Application Data
+results/
+logs/
+chrome_profile/
+*.log
+
+# Configuration
+# config.json # Uncomment to ignore local config
+
+# IDE
+.vscode/
+.idea/
