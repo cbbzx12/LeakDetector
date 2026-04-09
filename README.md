@@ -1,11 +1,3 @@
----
-title: "我自己写的一款工具: LeakDetector"
-date: 2026-01-31 17:15:00
-tags: [工具, 渗透测试, Python]
-categories: [作品]
-excerpt: 一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具。
----
-
 # LeakDetector
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
